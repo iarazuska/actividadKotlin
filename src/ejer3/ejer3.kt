@@ -24,12 +24,9 @@ fun main() {
                 }
             }
         }
-
-
         if (pila.isNotEmpty()) {
             bien = false
         }
-
         println("$expresion $bien")
     }
 }
