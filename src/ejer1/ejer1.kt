@@ -8,7 +8,6 @@ fun main(){
         } else if (listaNumeros % 3 == 0) {
             println("tri")
         } else if (listaNumeros % 5 == 0) {
-            println("qui ")
         } else {
             println("$listaNumeros")
         }
